@@ -48,7 +48,7 @@ author:
     - name: gmail
       url: https://mailto:ghotra.sinder@gmail.com
 home:
-  section1: <img style="border-radius:50%;width:200px" src="profile.jpg" alt="Avatar">
+  section1: <img style="border-radius:50%;width:200px" src="/assets/profile.jpg" alt="Avatar">
   section2: <h1>Sinder Singh</h1>
   section3: <h2>Experienced LIC agent, located in Pehowa City. Call today <a href="tel:+91-94161-70854">+91 9416170854</a></h2>
 blog:
